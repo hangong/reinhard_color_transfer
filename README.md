@@ -5,7 +5,7 @@ Copyright 2015 Han Gong gong@fedoraproject.org, University of East Anglia
 
 References: Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley, 'Color Transfer between Images', IEEE CG&amp;A special issue on Applied Perception, Vol 21, No 5, pp 34-41, September - October 2001
 
-MATLAB/Octave Code: see /src/m/demo.m for demonstration.
+MATLAB/Octave Code: see m/demo.m for demonstration.
 
 Results:
 
